@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm [Nama Anda]
 
-<!--
-**imanmukhlisin/imanmukhlisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Portfolio Website
 
-Here are some ideas to get you started:
+Check out my portfolio website: [https://username.github.io]([https://username.github.io](https://imanmukhlisin.github.io/imanmukhlisin/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio Preview]([https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://username.github.io](https://imanmukhlisin.github.io/imanmukhlisin/))
+
+## About Me
+- 🌱 I'm currently learning [react js, python, laravel]
+- 💬 Ask me about [html,css,js,boostrap]
+- 📫 How to reach me: [imanmukhlisin1@gmail.com]
+- 😄 Pronouns: [he]
+- ⚡ Fun fact: [down calm]
