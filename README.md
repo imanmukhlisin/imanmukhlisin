@@ -2,9 +2,9 @@
 
 ## My Portfolio Website
 
-Check out my portfolio website: ([https://username.github.io](https://imanmukhlisin.github.io/imanmukhlisin/))
+Check out my portfolio website: [((https://imanmukhlisin.github.io/imanmukhlisin/)](https://imanmukhlisin.github.io/portofolio/))](https://imanmukhlisin.github.io/portofolio/)
 
-[![Portfolio Preview]([https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://username.github.io](https://imanmukhlisin.github.io/imanmukhlisin/))
+[![Portfolio Preview](https://imanmukhlisin.github.io/imanmukhlisin/))](https://imanmukhlisin.github.io/portofolio/)
 
 ## About Me
 - 🌱 I'm currently learning [react js, python, laravel]
