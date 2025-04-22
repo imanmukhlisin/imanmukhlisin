@@ -2,8 +2,6 @@
 
 ## My Portfolio Website
 
-Check out my portfolio website: [((https://imanmukhlisin.github.io/imanmukhlisin/)](https://imanmukhlisin.github.io/portofolio/))](https://imanmukhlisin.github.io/portofolio/)
-
 [![Portfolio Preview](https://imanmukhlisin.github.io/imanmukhlisin/))](https://imanmukhlisin.github.io/portofolio/)
 
 ## About Me
