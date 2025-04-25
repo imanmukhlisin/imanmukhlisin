@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Iman Mukhlisin
 
 ## 🌐 My Portfolio Website
-Check out my portfolio website: [(https://username.github.io]((https://imanmukhlisin.github.io/Portofolio-/)))
+Check out my portfolio website: [[(https://username.github.io]((https://imanmukhlisin.github.io/Portofolio-/))](https://imanmukhlisin.github.io/Portofolio-/))
 
 ## About Me
 - 🌱 I'm currently learning [react js, python, laravel]
