@@ -22,7 +22,6 @@ Check out my portfolio website: [https://imanmukhlisin.github.io/Portofolio-/](h
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-> 📝 **NOTE**: Top languages does not indicate my skill level. It’s a GitHub metric showing which languages I have the most code in.
 
 ---
 
