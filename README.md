@@ -1,13 +1,5 @@
-# Hi there 👋 I'm Iman Mukhlisin
+# I'm Iman Mukhlisin
 
-## About Me
-- 🌱 I'm currently learning: React JS, Python, Laravel,  
-- 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap  
-- 📫 How to reach me: imanmukhlisin1@gmail.com  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: down calm  
-
----
 
 ## 🛠️ Languages and Tools:
 <p>
