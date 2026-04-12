@@ -1,7 +1,7 @@
 # Iman Mukhlisin
 
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
