@@ -1,8 +1,8 @@
 # Hi, I'm Iman Mukhlisin 👋
 
-# Developer 
+ Developer 
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB" alt="React.js" />
