@@ -1,6 +1,6 @@
 # Hi, I'm Iman Mukhlisin 👋
 
-Full Stack Developer | Web Enthusiast | Open Source Lover
+# Developer 
 
 ## 🚀 Tech Stack
 
