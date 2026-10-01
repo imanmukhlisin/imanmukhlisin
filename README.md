@@ -1,9 +1,7 @@
-# Hi, I'm Iman Mukhlisin 
 
-Developer 
+Hi 👋, I'm Mukhlis
 
-Tech Stack :
-
+A passionate developer from Yogyakarta, Indonesia.
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
@@ -11,3 +9,5 @@ Tech Stack :
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
 </p>
+
+📫 You can reach me on imanmukhlisin1@gmail.com 
